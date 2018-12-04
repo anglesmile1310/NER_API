@@ -6,7 +6,7 @@
 `http://localhost:3000/ner/crf?text=` + `câu muốn test`.
 * Ví dụ: `http://localhost:3000/ner/crf?text=Đội tuyển Việt Nam chưa hề thắng ở sân Mỹ Đình, từ giai đoạn bán kết và chung kết các kỳ AFF Cup từ trước đến nay. Dù vậy, đội bóng của HLV Park Hang Seo thậm chí vẫn chưa cần phá cái dớp thiếu may mắn đấy vẫn có thể vào chung kết AFF Cup 2018.`.
 
- ![Alt Image Text](https://imgur.com/wtbp0as)
+ ![img](https://imgur.com/wtbp0as)
 
 ### Deep Learning
 * Đứng ở thư mục API_dl, chạy `python src/api/ner_service.py`
@@ -14,4 +14,4 @@
 `http://localhost:1111/ner/deeplearning?text=` + `câu muốn test`.
 * Ví dụ: `http://localhost:1111/ner/deeplearning?text=Đội tuyển Việt Nam chưa hề thắng ở sân Mỹ Đình, từ giai đoạn bán kết và chung kết các kỳ AFF Cup từ trước đến nay. Dù vậy, đội bóng của HLV Park Hang Seo thậm chí vẫn chưa cần phá cái dớp thiếu may mắn đấy vẫn có thể vào chung kết AFF Cup 2018.`.
 
- ![Alt Image Text](https://imgur.com/wtbp0as)
+ ![img](https://imgur.com/SDmcZIl)
